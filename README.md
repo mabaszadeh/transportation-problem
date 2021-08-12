@@ -1,2 +1,2 @@
 # transportation-problem
-Solving transportation problem and optimizing by implementing genetic algorithm
+Solving Transportation Problem and Optimizing by Implementing Genetic Algorithm
