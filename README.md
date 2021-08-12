@@ -1,2 +1,2 @@
 # Transportation Problem
-Solving & Optimizing Transportation Problem using Genetic Algorithm (GA)
+Solving Transportation Problem and Optimizing by Genetic Algorithm
