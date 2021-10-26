@@ -16,7 +16,7 @@ Create an input file like ones in `inputs` directory and change **`in1`** of `fr
 | [in4.py](inputs/in1.py) | [out4.txt](outputs/out4.txt) |
 | [in5.py](inputs/in1.py) | [out5.txt](outputs/out5.txt) |
 
-## Useful Links
+### Useful Links
 
 1. [Genetic system for transportation problems](https://scholarworks.umt.edu/cgi/viewcontent.cgi?article=6577&context=etd)
 2. [North West Corner](https://geekrodion.com/blog/operations/corner)
