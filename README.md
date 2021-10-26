@@ -1,6 +1,10 @@
 # Transportation-Problem
 
-Solving **Transportation Problem** and Optimizing by Implementing Genetic Algorithm
+Solving **Transportation Problem** (TP) and Optimizing by Implementing Genetic Algorithm.
+
+## How to use it?
+
+Create an input file like ones in `inputs` directory and change `in1` of `from inputs.in1 import *`, the first cell of `transportation-problem.ipynb`, to your file name you 've created.
 
 ## Examples
 
@@ -10,6 +14,7 @@ Solving **Transportation Problem** and Optimizing by Implementing Genetic Algori
 | [in2.py](inputs/in1.py) | [out2.txt](outputs/out2.txt) |
 | [in3.py](inputs/in1.py) | [out3.txt](outputs/out3.txt) |
 | [in4.py](inputs/in1.py) | [out4.txt](outputs/out4.txt) |
+| [in5.py](inputs/in1.py) | [out5.txt](outputs/out5.txt) |
 
 ## Useful Links
 
