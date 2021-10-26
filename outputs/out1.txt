@@ -1,0 +1,22 @@
+Results AFTER applying GA:
+
+Minimum cost: 1127
+
+Optimal solution:
+[[0 0 8 0 0]
+ [0 0 0 3 4]
+ [3 3 2 1 0]
+ [3 0 0 0 0]
+ [0 5 0 0 0]]
+
+
+Results BEFORE applying GA:
+
+Minimum cost: 1246
+
+Optimal solution:
+[[0 0 8 0 0]
+ [0 0 2 1 4]
+ [6 3 0 0 0]
+ [0 0 0 3 0]
+ [0 5 0 0 0]]
