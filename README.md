@@ -1,6 +1,6 @@
 # Transportation-Problem
 
-Solving **Transportation Problem** (TP) and Optimizing by Implementing Genetic Algorithm (GA)
+Solving **Transportation Problem** and Optimizing by Implementing Genetic Algorithm
 
 ## Useful Links
 
