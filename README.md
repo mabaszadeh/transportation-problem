@@ -9,4 +9,4 @@ Solving **Transportation Problem** (TP) and Optimizing by Implementing Genetic A
 
 ## Examples
 
-input 1: [input1.py](inputs/input1.py)
+input 1: [input1.py](inputs/in1.py)
