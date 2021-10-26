@@ -1,0 +1,18 @@
+Results BEFORE applying GA:
+
+Minimum cost: 743
+
+Optimal solution:
+[[ 5  0  0  2]
+ [ 0  2  7  0]
+ [ 0  6  0 12]]
+
+
+Results AFTER applying GA:
+
+Minimum cost: 743
+
+Optimal solution:
+[[ 5  0  0  2]
+ [ 0  2  7  0]
+ [ 0  6  0 12]]
