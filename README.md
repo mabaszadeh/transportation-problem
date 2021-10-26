@@ -1,6 +1,6 @@
 # Transportation-Problem
 
-Solving **Transportation Problem** (TP) and Optimizing by Implementing Genetic Algorithm.
+Solving **Transportation Problem** (TP) and Optimizing by Implementing **Genetic Algorithm**.
 
 ## How to use it?
 
@@ -8,7 +8,7 @@ Create an input file like ones in `inputs` directory and change **`in1`** of `fr
 
 ## Examples
 
-| Inputs | Outputs |
+| **Inputs** | Outputs |
 | - | - |
 | [in1.py](inputs/in1.py) | [out1.txt](outputs/out1.txt) |
 | [in2.py](inputs/in2.py) | [out2.txt](outputs/out2.txt) |
