@@ -4,7 +4,7 @@ Solving **Transportation Problem** (TP) and Optimizing by Implementing Genetic A
 
 ## How to use it?
 
-Create an input file like ones in `inputs` directory and change `in1` of `from inputs.in1 import *`, the first cell of `transportation-problem.ipynb`, to your file name you 've created.
+Create an input file like ones in `inputs` directory and change **`in1`** of `from inputs.in1 import *`, the first cell of `transportation-problem.ipynb`, to your file name you 've created.
 
 ## Examples
 
